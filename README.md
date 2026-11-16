@@ -1,4 +1,4 @@
-# ReserveOne — Enterprise Resource Scheduling Platform
+# ReserveOne — Resource Reservation Engine
 
 [![Java](https://img.shields.io/badge/Java-17%20LTS-orange.svg)](https://openjdk.org/projects/jdk/17/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.16-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -8,7 +8,7 @@
 [![Tests](https://img.shields.io/badge/Tests-90%20Passed%20(100%25)-success.svg)]()
 [![Coverage](https://img.shields.io/badge/JaCoCo-82%25%20Coverage-green.svg)]()
 
-**ReserveOne** is an enterprise-grade, high-concurrency resource scheduling and reservation platform. Engineered strictly adhering to the 12-Factor App methodology, it provides zero-collision booking concurrency, optimized multi-table relational data access, and a stateless defense-in-depth security architecture.
+**ReserveOne** is an enterprise-grade, high-concurrency resource reservation engine. Engineered strictly adhering to the 12-Factor App methodology, it provides zero-collision booking concurrency, optimized multi-table relational data access, and a stateless defense-in-depth security architecture.
 
 Part of the **One** SaaS ecosystem alongside **StaffOne** *(Workforce Management)* and **LibraOne** *(Library Management)*.
 
